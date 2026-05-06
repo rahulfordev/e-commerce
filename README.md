@@ -92,8 +92,8 @@ types/                       # Type definitions
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Rahulfordev/e-commerce-dashboard.git
-cd verv-frontend-assignment
+git clone https://github.com/Rahulfordev/ecommerce-frontend.git
+cd ecommerce-frontend
 
 # 2. Install dependencies
 yarn install
