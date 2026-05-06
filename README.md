@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Dashboard – Frontend Assignment
+# 🛍️ E-Commerce 
 
 This project is a **responsive e-commerce dashboard** built using **Next.js 15 App Router**, **React Query**, **Redux**, and **Tailwind CSS**. It integrates with the [FakeStore API](https://fakestoreapi.com) to showcase product listings, filtering, cart functionality, and more.
 
